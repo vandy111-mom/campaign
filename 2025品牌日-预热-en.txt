@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#MomcozyRealSupport for World Breastfeeding Week</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+            line-height: 1.6;
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+      
+        .header {
+            text-align: center;
+            padding: 20px;
+            color: #003B4A;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 22px;
+            font-weight: bold;
+            color: #004B66;
+        }
+        .content {
+            padding: 20px;
+            color: #333333;
+            background-color: #faf5f5;
+        }
+        .content p {
+            margin: 0 0 12px 0;
+        }
+        .content a {
+            color: #333333;
+            text-decoration: none;
+        }
+        .section-title {
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        color: #444444;
+        padding: 12px 10px;
+        margin: 0px 0 12px;
+        background-color: #fff7e6;
+        border-top: 3px solid #FFA500;
+        border-bottom: 3px solid #FFD580;
+        }
+        .code-link {
+            color: #000000;
+            font-weight: bold;
+            text-decoration: underline;
+         }
+         .code-link:hover {
+             color: #FFA500;
+             cursor: pointer;
+         }
+        .highlight {
+            background-color: #fff7e6;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        .highlight p, .highlight li {
+            margin: 0 0 12px 0;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333333;
+        }
+        .banner {
+            text-align: center;
+        }
+        .banner img {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+        }
+        .btn {
+            display: block;
+            width: fit-content;
+            margin: 20px auto;
+            padding: 12px 28px;
+            background-color: #003B4A;   /* 按钮背景 */
+            color: #FBE6E4 !important;   /* 按钮字体 */
+            text-align: center;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 16px;
+            border: 2px solid #003B4A;
+            transition: all 0.2s ease;   /* 平滑过渡效果 */
+            visibility: visible;
+        }
+        .btn:hover {
+            background-color: #FBE6E4;    /* 悬停背景 */
+            color: #003B4A !important;    /* 悬停字体 */
+            border: 2px solid #003B4A;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #FBE6E4;
+            font-size: 12px;
+            color: #666666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+       <!-- Banner -->
+        <div class="banner">
+                <a href="https://momcozy.com/pages/world-breastfeeding-week" target="_blank">
+                 <img src="https://s2.loli.net/2025/07/26/8DWLP1C6GxqUFjv.jpg" ></a>
+            </a>
+        </div>
+        <!-- Header -->
+        <div class="header">
+            <h1>⏰Momcozy Brand Day Pre-Launch Alert! </h1>
+            <h1>Your Exclusive 20% OFF Await!</h1>
+        </div>
+
+        <!-- Content -->
+        <div class="content">
+            <p><strong>Hi Momcozy Affiliates</strong>,</p>
+
+            <p>At Momcozy, every decision starts with a mother’s voice and is driven by care—earning the trust of millions of moms worldwide.💕</p>
+
+            <p>For our <strong>Brand Day </strong>, we’d love to amplify that trust  <strong>through you </strong>: inspire your audience to discover how Momcozy’s smart solutions make motherhood more comfortable, while expanding your own influence at the same time.</p>
+
+            <div class="highlight">
+                <div class="section-title">📅 Mark your calendar</div>
+
+                <ul>
+                    <li><strong>20% Off Sitewide Code</strong>: <a href="https://momcozy.com/pages/world-breastfeeding-week" class="code-link" target="_blank"><span style="text-decoration: underline;border-bottom: 1px dashed"><strong>AFBD20</strong></a></li>
+                    <li><strong>Date:</strong> Sep 15 – Oct 6</li>
+            </div>
+
+            <div class="highlight">
+                <div class="section-title">🌟 Boost Your Commission</div>
+                <ol>
+                    <li>Highlight Brand Day offers with your audience.</li>
+                    <li>Add code <strong>AFBD20</strong> in your content to maximize conversions</li>
+                    <li>Download your toolkit (banners & links) </strong></li>
+                </ol>
+            </div>
+
+            <p>Now’s the perfect time to <strong>schedule your content and lock in top placements!</strong></p>
+
+            <a href="https://publisher.rakutenadvertising.com/advertisers" class="btn" target="_blank">Promote Now</a>
+
+            <div class="footer">
+                <p><strong>Every choice, always Momcozy</strong></p>
+                <p><strong>Momcozy Affiliate Team</strong></p>
+                <p>All Rights Reserved © 2025 Momcozy.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
