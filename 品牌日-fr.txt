@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Exclusivité Brand Day Momcozy</title>
+
+<style>
+body {
+    margin:0;
+    padding:0;
+    font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color:#F5EFEB;
+    color:#9F6E6E;
+    line-height:1.6;
+}
+
+.container {
+    max-width:600px;
+    margin:0 auto;
+    background:#ffffff;
+}
+
+.banner img {
+    width:100%;
+    height:auto;
+    display:block;
+}
+
+.hero-section {
+    text-align:center;
+    padding:30px 25px 10px;
+}
+
+.logo-text {
+    font-size:16px;
+    font-weight:700;
+    color:#9F6E6E;
+    letter-spacing:1px;
+    margin-bottom:8px;
+}
+
+.hero-title {
+    margin:8px 0 5px;
+    font-size:26px;
+    color:#9F6E6E;
+    font-weight:800;
+}
+
+.hero-subtitle {
+    margin:0 0 18px;
+    font-size:18px;
+    color:#B86A6A;
+    font-weight:700;
+}
+
+.hero-text {
+    font-size:14px;
+    text-align:left;
+    color:#9F6E6E;
+}
+
+.promo-box {
+    text-align:center;
+    margin:22px 0 15px;
+}
+
+.promo-code {
+    display:inline-block;
+    background:#B86A6A;
+    color:#fff;
+    font-weight:bold;
+    padding:10px 22px;
+    border-radius:8px;
+    font-size:14px;
+}
+
+.promo-date {
+    font-size:13px;
+    margin-top:8px;
+    color:#9F6E6E;
+}
+
+.products-wrap {
+    padding:5px 0 10px;
+}
+
+.product-box {
+    margin:20px;
+    border-radius:16px;
+    border:1px solid #E5D2C8;
+    background:#F8F1ED;
+    overflow:hidden;
+}
+
+.product-header {
+    background:#B86A6A;
+    color:white;
+    text-align:center;
+    padding:12px;
+    font-weight:bold;
+    font-size:14px;
+}
+
+.product-item {
+    width:50%;
+    padding:10px;
+    text-align:center;
+    vertical-align:top;
+}
+
+.img-container {
+    background:white;
+    border-radius:12px;
+    overflow:hidden;
+    line-height:0;
+    height:288px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.product-img {
+    width:100%;
+    height:200px;
+    object-fit:contain;
+    display:block;
+}
+
+.product-name {
+    display:block;
+    font-size:13px;
+    font-weight:bold;
+    margin:10px 0;
+    min-height:40px;
+    line-height:1.4;
+}
+
+.shop-btn {
+    display:inline-block;
+    background:#B86A6A;
+    color:#fff;
+    padding:7px 20px;
+    border-radius:50px;
+    text-decoration:none;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.cta {
+    text-align:center;
+    padding:20px 25px 30px;
+}
+
+.cta-text {
+    font-size:14px;
+    color:#9F6E6E;
+    margin-bottom:20px;
+}
+
+.cta-btn {
+    display:inline-block;
+    background:#B86A6A;
+    color:#fff;
+    padding:12px 35px;
+    border-radius:50px;
+    text-decoration:none;
+    font-weight:bold;
+    font-size:14px;
+}
+
+.footer {
+    text-align:center;
+    padding:35px 20px;
+    background:#F5EFEB;
+    color:#9F6E6E;
+    font-size:12px;
+}
+
+.footer strong {
+    font-size:14px;
+}
+
+.footer-container {
+    margin-top:8px;
+}
+
+.footer-copyright {
+    font-size:11px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- =========================================================
+     BRAND DAY BANNER
+========================================================= -->
+
+<div class="banner">
+<a href="#" target="_blank">
+<img 
+    src="https://origin.picgo.net/2026/08/27/1200628b4dd1408995d070b.jpg" 
+    alt="Momcozy Brand Day - Ventes Exclusives Membres"
+>
+</a>
+</div>
+
+
+<!-- =========================================================
+     INTRO
+========================================================= -->
+
+<div class="hero-section">
+
+<div class="logo-text">
+Mom, and More
+</div>
+
+<h1 class="hero-title">
+Ventes Exclusives Membres
+</h1>
+
+<div class="hero-subtitle">
+Les Plus Grandes Économies Membres
+</div>
+
+<p class="hero-text">
+
+Chers affiliés Momcozy,<br><br>
+
+Le Momcozy Brand Day est enfin arrivé !
+
+C'est le moment idéal pour aider votre communauté à découvrir les incontournables Momcozy pour mamans et bébés tout en profitant de nos meilleures remises membres.
+
+Des tire-laits mains libres intelligents aux porte-bébés, en passant par le soutien à la grossesse, les écoute-bébés et les essentiels du quotidien, Momcozy est là pour rendre chaque étape de la maternité plus confortable, pratique et douce.
+
+Nous avons sélectionné nos produits phares pour cette campagne Brand Day. Commencez à promouvoir dès maintenant et aidez votre communauté à profiter pleinement de ces réductions exclusives.
+
+</p>
+
+
+<div class="promo-box">
+
+<div class="promo-code">
+BRAND DAY · EXCLUSIVITÉ MEMBRES
+</div>
+
+<div class="promo-date">
+Profitez de la vente membres &amp; bénéficiez de vos plus grandes économies
+</div>
+
+</div>
+
+</div>
+
+
+<!-- =========================================================
+     FEATURED PRODUCTS
+========================================================= -->
+
+<div class="products-wrap">
+
+<div class="product-box">
+
+<div class="product-header">
+PRODUITS EN VEDETTE DU BRAND DAY
+</div>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+
+<!-- ROW 1 -->
+
+<tr>
+
+<td class="product-item">
+
+<div class="img-container">
+<img 
+    src="https://cdn.shopify.com/s/files/1/0559/2321/2486/files/01_56489eac-5396-4685-aacc-3c6c14c39930.jpg?v=1775025039" 
+    class="product-img" 
+    alt="Tire-lait mains libres Momcozy M6"
+>
+</div>
+
+<span class="product-name">
+Tire-lait mains libres Momcozy M6
+</span>
+
+<a 
+    class="shop-btn" 
+    href="https://momcozy.com/search?q=M6"
+    target="_blank"
+>
+ACHETER
+</a>
+
+</td>
+
+
+<td class="product-item">
+
+<div class="img-container">
+<img 
+    src="https://cdn.shopify.com/s/files/1/0559/2321/2486/files/untitled_design_7_1.webp?v=1785899665" 
+    class="product-img" 
+    alt="Momcozy BS03"
+>
+</div>
+
+<span class="product-name">
+Lave-biberon et stérilisateur Momcozy KleanPal Pro
+</span>
+
+<a 
+    class="shop-btn" 
+    href="https://momcozy.com/search?q=BS03"
+    target="_blank"
+>
+ACHETER
+</a>
+
+</td>
+
+</tr>
+
+
+<!-- ROW 2 -->
+
+<tr>
+
+<td class="product-item">
+
+<div class="img-container">
+<img 
+    src="https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_517d94d6-e3f0-4b34-b2b1-f31cca6f6173.png?v=1780886314" 
+    class="product-img" 
+    alt="Ceinture de soutien de grossesse Momcozy"
+>
+</div>
+
+<span class="product-name">
+BumpEase - Ceinture de soutien de grossesse ergonomique Momcozy
+</span>
+
+<a 
+    class="shop-btn" 
+    href="https://momcozy.com/search?q=pregnancy+support"
+    target="_blank"
+>
+ACHETER
+</a>
+
+</td>
+
+
+<td class="product-item">
+
+<div class="img-container">
+<img 
+    src="https://cdn.shopify.com/s/files/1/0559/2321/2486/files/6391ace427ade714b70fb966024ae804_eec94a68-c5dc-4b15-933c-9181e1d400da.jpg?v=1779351487" 
+    class="product-img" 
+    alt="Ballon de grossesse Momcozy"
+>
+</div>
+
+<span class="product-name">
+Ensemble ballon de grossesse et d'accouchement Momcozy BirthEase
+</span>
+
+<a 
+    class="shop-btn" 
+    href="https://momcozy.com/search?q=yoga+ball"
+    target="_blank"
+>
+ACHETER
+</a>
+
+</td>
+
+</tr>
+
+
+<!-- ROW 3 -->
+
+<tr>
+
+<td class="product-item">
+
+<div class="img-container">
+<img 
+    src="https://cdn.shopify.com/s/files/1/0559/2321/2486/files/black-01_112d6a25-d6a5-4916-bd80-84726eddb759.jpg?v=1774497253" 
+    class="product-img" 
+    alt="Porte-bébé Momcozy BC001"
+>
+</div>
+
+<span class="product-name">
+Porte-bébé ergonomique, léger et confortable Momcozy PureHug
+</span>
+
+<a 
+    class="shop-btn" 
+    href="https://momcozy.com/search?q=BC001"
+    target="_blank"
+>
+ACHETER
+</a>
+
+</td>
+
+
+<td class="product-item">
+
+<div class="img-container">
+<img 
+    src="https://cdn.shopify.com/s/files/1/0559/2321/2486/files/01_4c42530c-411e-49a8-86a5-729bfa32119c.jpg?v=1776758311" 
+    class="product-img" 
+    alt="Écoute-bébé Momcozy BM04"
+>
+</div>
+
+<span class="product-name">
+Moniteur bébé intelligent double mode 5 pouces Momcozy-BM04
+</span>
+
+<a 
+    class="shop-btn" 
+    href="https://momcozy.com/search?q=BM04"
+    target="_blank"
+>
+ACHETER
+</a>
+
+</td>
+
+</tr>
+
+
+<!-- ROW 4 -->
+
+<tr>
+
+<td class="product-item">
+
+<div class="img-container">
+<img 
+    src="https://cdn.shopify.com/s/files/1/0559/2321/2486/files/test-_mocmozy_9e7be770-abb5-43ba-9943-c1f3c518b75a.jpg?v=1753169259" 
+    class="product-img" 
+    alt="Mouche-bébé électrique Momcozy"
+>
+</div>
+
+<span class="product-name">
+Mouche-bébé électrique 2-en-1 pulvérisation et aspiration Momcozy BreezyClear™
+</span>
+
+<a 
+    class="shop-btn" 
+    href="https://momcozy.com/search?q=BN07"
+    target="_blank"
+>
+ACHETER
+</a>
+
+</td>
+
+
+<td class="product-item">
+
+<div class="img-container">
+<img 
+    src="https://cdn.shopify.com/s/files/1/0559/2321/2486/files/11_93f968bc-ea01-4c34-9147-39e06806df0b.jpg?v=1730359304" 
+    class="product-img" 
+    alt="Machine à bruit blanc Momcozy"
+>
+</div>
+
+<span class="product-name">
+Machine à bruit blanc intelligente Momcozy - Contrôle via application
+</span>
+
+<a 
+    class="shop-btn" 
+    href="https://momcozy.com/search?q=white+noise"
+    target="_blank"
+>
+ACHETER
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+
+<!-- =========================================================
+     CTA
+========================================================= -->
+
+<div class="cta">
+
+<p class="cta-text">
+
+Prêt à promouvoir le Momcozy Brand Day ?<br><br>
+
+Partagez la vente membres avec votre communauté dès maintenant et aidez les mamans à découvrir leurs produits Momcozy préférés avec les plus grandes économies.
+
+</p>
+
+<a 
+    class="cta-btn" 
+    href="#" 
+    target="_blank"
+>
+PROFITER DES VENTES MEMBRES
+</a>
+
+</div>
+
+
+<!-- =========================================================
+     FOOTER
+========================================================= -->
+
+<div class="footer">
+
+<strong>
+Mom, and More
+</strong>
+
+<br><br>
+
+Équipe d'affiliation mondiale Momcozy
+
+<div class="footer-container">
+<div class="footer-copyright">
+&copy; 2026 Momcozy. Tous droits réservés.
+</div>
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
